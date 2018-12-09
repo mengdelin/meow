@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+	<script type="text/javascript">
+	var obj = {
+		name:"123",
+		age:12
+	};
+	document.images
+	</script>
+</head>
+<body>
+	
+</body>
+</html>
